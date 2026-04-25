@@ -30,4 +30,4 @@
 
 ## 📫 Contact
 - GitHub: https://github.com/Umar-dev23  
-- Email: your-email@example.com  
+- Email: umar.dev23@gmail.com  
