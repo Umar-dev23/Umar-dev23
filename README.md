@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Umar
 
-<!--
-**Umar-dev23/Umar-dev23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior MERN Stack Developer | Learning & Building Real Projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Currently working on React & Node.js projects  
+- 🌱 Learning advanced JavaScript & backend systems  
+- 🎯 Goal: Become a strong Full Stack Developer  
+- ⚡ I enjoy building real-world web apps  
+
+---
+
+## 🛠️ Tech Stack
+- HTML, CSS, JavaScript  
+- React.js  
+- Node.js  
+- Express.js  
+- MongoDB  
+
+---
+
+## 📌 Current Focus
+- Building full-stack MERN projects  
+- Improving backend logic & API design  
+- Learning clean code practices  
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/Umar-dev23  
+- Email: your-email@example.com  
