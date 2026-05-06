@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Umar
 
-💻 Junior MERN Stack Developer | Learning & Building Real Projects
+💻 MERN Stack Developer | Learning & Building Real Projects
 
 ---
 
